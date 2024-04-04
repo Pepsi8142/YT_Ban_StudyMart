@@ -1,0 +1,11 @@
+form{
+    border-style: solid;
+    border-color: limegreen;
+}
+label{
+    font-size: 25px;
+    color: darkslategray;
+}
+input{
+    background-color: wheat;
+}

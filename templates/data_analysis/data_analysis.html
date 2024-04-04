@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{% static 'css/analysis.css' %}">
+    <title>data analysis</title>
+    <style>                     {#<!-- Internal css -->#}
+        del{
+            background-color: aquamarine;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1><small>This is</small> <u><b><i><mark>data analysis</mark></i></b></u> <big>portal</big></h1>
+    <del>300</del>
+    <ins>250</ins>
+    <div class="font">
+        <p>(a+b)<sup class="sup">2</sup></p>
+        <p>H<sub class="sub">2</sub>O</p>
+        <p> <abbr title="data analysis">dt</abbr> </p>
+        <p>Welcome to this <span style="color: red">portal</span></p>       <!-- Inline css (first priority)-->
+    </div>
+    <pre id="fuck">
+        hello               welcome
+                HTML
+    </pre>
+</body>
+</html>

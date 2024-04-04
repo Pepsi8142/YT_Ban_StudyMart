@@ -1,0 +1,36 @@
+body{
+    background-color: lightslategray;
+}
+h1{
+    color: aquamarine;
+    text-decoration: lightsalmon;
+    font-size: x-large;
+    font-weight: bolder;
+}
+h2{
+    color: greenyellow;
+    font-weight: bold;
+    font-size: large;
+}
+.margin{
+    height: 500px;
+    width: 1000px;
+    border: 5px solid wheat;
+}
+.padding{
+    height: 490px;
+    width: 990px;
+    border: 5px solid #6a9bf6;
+}
+.border{
+    height: 200px;
+    width: 200px;
+    border: 100px solid deeppink;
+    border-top-color: yellow;
+}
+
+/**{*/
+/*    margin: 3px;*/
+/*    padding: 3px;*/
+/*    box-sizing: border-box;*/
+/*}*/

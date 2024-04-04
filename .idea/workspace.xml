@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="720c6053-2cf9-4546-902a-23c48bd1f18c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/YT_Ban_StudyMart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_us/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_analysis/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/analysis.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/d_tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/deep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/knn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/machine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/teachers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about_us/about_us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about_us/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blog/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blog/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/common_code/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/data_analysis/data_analysis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/deep_learning/deep_learning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/machine_learning/decision_tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/machine_learning/knn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/machine_learning/machine_learning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/machine_learning/random_forest.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eBa8UcZIs9mSIpg6NWcDjExaKr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Database Script.db.sqlite3.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Faisal/PycharmProjects/YT_Ban_StudyMart/db.sqlite3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;839d2a93-340d-4892-8fb1-8acd2474b590&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;SQLite&quot;,
+      &quot;SQL92&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect&quot;: [
+      &quot;SQLite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Faisal\PycharmProjects\YT_Ban_StudyMart\static\images" />
+      <recent name="F:\Faisal\PycharmProjects\YT_Ban_StudyMart\static\css" />
+      <recent name="F:\Faisal\PycharmProjects\YT_Ban_StudyMart\templates\machine_learning" />
+      <recent name="F:\Faisal\PycharmProjects\YT_Ban_StudyMart\templates\deep_learning" />
+      <recent name="F:\Faisal\PycharmProjects\YT_Ban_StudyMart\templates\data_analysis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.db.sqlite3">
+    <configuration name="db.sqlite3" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/db.sqlite3" />
+      <script-mode>FILE</script-mode>
+      <data-source id="839d2a93-340d-4892-8fb1-8acd2474b590" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YT_Ban_StudyMart" type="Python.DjangoServer" factoryName="Django server">
+      <module name="YT_Ban_StudyMart" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.db.sqlite3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="720c6053-2cf9-4546-902a-23c48bd1f18c" name="Changes" comment="" />
+      <created>1711380265671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711380265671</updated>
+      <workItem from="1711380268975" duration="2140000" />
+      <workItem from="1711424954733" duration="4078000" />
+      <workItem from="1711435034220" duration="805000" />
+      <workItem from="1711437608304" duration="1847000" />
+      <workItem from="1711439595084" duration="53000" />
+      <workItem from="1711440008881" duration="722000" />
+      <workItem from="1711446676201" duration="26000" />
+      <workItem from="1711513414213" duration="16517000" />
+      <workItem from="1711600579713" duration="868000" />
+      <workItem from="1711602011679" duration="12190000" />
+      <workItem from="1712064831145" duration="2494000" />
+      <workItem from="1712110300068" duration="7890000" />
+      <workItem from="1712120264092" duration="2137000" />
+      <workItem from="1712138906829" duration="5609000" />
+      <workItem from="1712152377443" duration="9194000" />
+      <workItem from="1712203163065" duration="1324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

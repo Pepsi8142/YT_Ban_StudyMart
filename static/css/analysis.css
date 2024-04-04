@@ -1,0 +1,18 @@
+/* External css*/
+p {                                         /* Specific tag */
+    font-size: 30px;
+    
+}
+* {                                         /* Universal */
+    color: darkred;
+    font-weight: 900;
+}
+.font{                                      /* Class */
+    background-color: limegreen;
+}
+#fuck{                                      /* id */
+    background-color: lightslategray;
+}
+.sup, .sub{                                 /* Same style for Multiple Tags */
+    background-color: wheat;
+}

@@ -1,0 +1,21 @@
+.p1{
+    direction: ltr;
+    letter-spacing: 5px;
+    text-decoration-line: spelling-error;
+}
+.p2{
+    text-align: justify;
+    text-decoration: underline overline;
+    text-decoration-color: darkred;
+    word-spacing: 10px;
+    line-height: 300%;
+    text-indent: 50px;
+    text-shadow: 3px 5px 4px rgba(0, 0, 0, 0.5);
+}
+.p3{
+    text-transform: capitalize;
+    line-height: 200%;
+    text-decoration-line: line-through;
+    text-decoration-color: darkred;
+    font-size: 200%;
+}
