@@ -5,56 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="720c6053-2cf9-4546-902a-23c48bd1f18c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/YT_Ban_StudyMart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about_us/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deep_learning/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/analysis.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/d_tree.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/deep.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/knn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/machine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/teachers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about_us/about_us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about_us/teachers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common_code/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/data_analysis/data_analysis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/deep_learning/deep_learning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/machine_learning/decision_tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/machine_learning/knn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/machine_learning/machine_learning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/machine_learning/random_forest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/data_analysis/class_based_views.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/data_analysis/function_based_views.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/deep_learning/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/YT_Ban_StudyMart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/YT_Ban_StudyMart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YT_Ban_StudyMart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/YT_Ban_StudyMart/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_us/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/about_us/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_us/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/about_us/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_us/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/about_us/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/data_analysis/data_analysis.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +37,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="Python Script" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -98,6 +66,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -108,7 +78,8 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -176,7 +147,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -204,6 +176,18 @@
       <workItem from="1712138906829" duration="5609000" />
       <workItem from="1712152377443" duration="9194000" />
       <workItem from="1712203163065" duration="1324000" />
+      <workItem from="1712632585479" duration="1675000" />
+      <workItem from="1712749254580" duration="194000" />
+      <workItem from="1712749461845" duration="513000" />
+      <workItem from="1712750236935" duration="697000" />
+      <workItem from="1712806083990" duration="11523000" />
+      <workItem from="1713262842781" duration="5601000" />
+      <workItem from="1713271117921" duration="99000" />
+      <workItem from="1713271226247" duration="24000" />
+      <workItem from="1713271258388" duration="37000" />
+      <workItem from="1713284033472" duration="3421000" />
+      <workItem from="1713330229115" duration="2434000" />
+      <workItem from="1713436200607" duration="1109000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from about_us.models import Teachers
+from about_us.models import Teacher
 
 # Create your views here.
 
@@ -10,7 +10,7 @@ def about_us(request):
 
 
 def teacher_info(request):
-    info = Teachers.objects.all()
+    info = Teacher.objects.all()
     context = {
         'info': info
     }
